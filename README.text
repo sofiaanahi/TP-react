@@ -1,0 +1,6 @@
+
+el mini proyecto es una app de listas de tarea.
+permite que el usuario pueda agregar nuevas tareas
+que se marquen como completadas o pendientes y se filtra
+segun su estado. 
+utilice los hooks useState, useEffect, useContext
